@@ -1,6 +1,6 @@
 # 🛍️ Myntra Clone
 
-This is a **frontend clone** of the popular Indian fashion e-commerce website [Myntra](https://www.myntra.com), built using **HTML**, **CSS**, and **JavaScript**.
+This is a **frontend clone** (upgraded) of the popular Indian fashion e-commerce website [Myntra](https://www.myntra.com), built using **HTML**, **CSS**, and React/redux
 
 ## 🚀 Features
 
