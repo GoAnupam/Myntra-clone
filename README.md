@@ -12,7 +12,6 @@ This is a **frontend clone** (upgraded) of the popular Indian fashion e-commerce
 - ✅ Dark mode toggle
 - ✅ Loader animation
 - ✅ Mobile responsive layout
-- 
  Technologies Used
 - HTML5
 - CSS3 (Flexbox, Media Queries, Animations)
